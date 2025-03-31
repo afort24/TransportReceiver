@@ -1,1 +1,0 @@
-*.amxd linguist-language=Max
